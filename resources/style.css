@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    text-decoration: dotted;
+}
+h2 {
+    text-align: center;
+}
+#bee-movie {
+    color: black;
+    background-color: yellow;
+}
+#shrek {
+    color: rgb(73, 49, 18);
+    background-color: chartreuse;
+}
